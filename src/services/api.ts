@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000"; // or your original backend URL
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000"; // or your original backend URL
 
 export interface Detection {
   x1: number;
