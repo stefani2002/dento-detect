@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Model weights (преголеми за GitHub)
+*.pt
+*.pth
+models/best.pt
+
+# Node
+node_modules/
+dist/
+build/
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
