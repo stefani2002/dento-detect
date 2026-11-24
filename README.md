@@ -3,7 +3,6 @@
 **A web platform for dental caries detection on X-ray images using deep learning (YOLOv8).**
 
 Bachelor's thesis project: *Веб платформа за детекција на кариес на дентални рендген снимки со примена на алгоритми за длабоко учење*
-Author: Stefani Eftimovska (211062) · Mentor: Prof. Dr. Ivan Corbev
 Faculty of Computer Science and Engineering (FINKI), Ss. Cyril and Methodius University, Skopje, 2026
 
 > ⚠️ **Disclaimer:** DentoDetect is intended for educational and research purposes. It is an assistive tool, **not** a replacement for a qualified dentist, and results must be verified by a dental professional. Not intended for self-diagnosis.
